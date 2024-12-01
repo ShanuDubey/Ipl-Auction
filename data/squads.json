@@ -1,0 +1,254 @@
+[
+  {
+    "squad": "chennai-super-kings",
+    "players": [
+      {
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319946.png",
+        "name": "MS Dhoni",
+        "profile": "https://www.iplt20.com/teams/chennai-super-kings/squad/1/ms-dhoni",
+        "squad": "chennai-super-kings",
+        "stats": {
+          "role": "Wicketkeeper batsman",
+          "batting": [
+            {
+              "label": "Mat",
+              "value": "211"
+            },
+            {
+              "label": "No",
+              "value": "70"
+            },
+            {
+              "label": "Runs",
+              "value": "4669"
+            },
+            {
+              "label": "HS",
+              "value": "84*"
+            },
+            {
+              "label": "Ave",
+              "value": "40.25"
+            },
+            {
+              "label": "BF",
+              "value": "3,417"
+            },
+            {
+              "label": "SR",
+              "value": "136.64"
+            },
+            {
+              "label": "100",
+              "value": "0"
+            },
+            {
+              "label": "50",
+              "value": "23"
+            },
+            {
+              "label": "4s",
+              "value": "317"
+            },
+
+            {
+              "label": "6s",
+              "value": "217"
+            },
+            {
+              "label": "CT",
+              "value": "118"
+            },
+            {
+              "label": "ST",
+              "value": "39"
+            }
+          ]
+        }
+      },
+      {
+        "image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/284/898.png",
+        "name": "Imran Tahir",
+        "profile": "https://www.iplt20.com/teams/chennai-super-kings/squad/898/imran-tahir",
+        "squad": "chennai-super-kings",
+        "stats": {
+          "role": "Bowler",
+          "bowling": [
+            {
+              "label": "Mat",
+              "value": "59"
+            },
+            {
+              "label": "Balls",
+              "value": "1,316"
+            },
+            {
+              "label": "Runs",
+              "value": "1,703"
+            },
+            {
+              "label": "WKTS",
+              "value": "82"
+            },
+            {
+              "label": "BBM",
+              "value": "4/12"
+            },
+            {
+              "label": "Ave",
+              "value": "20.76"
+            },
+            {
+              "label": "Econ",
+              "value": "7.76"
+            },
+            {
+              "label": "SR",
+              "value": "16.04"
+            },
+            {
+              "label": "4W",
+              "value": "3"
+            },
+            {
+              "label": "5W",
+              "value": "0"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "squad": "royal-challengers-bangalore",
+    "players": [
+      {
+        "image": "https://www.hindustantimes.com/static-content/1y/cricket-logos/players/virat-kohli.png",
+        "name": "Virat Kohli",
+        "profile": "https://www.iplt20.com/teams/royal-challengers-bangalore/squad/164/virat-kohli",
+        "squad": "royal-challengers-bangalore",
+        "stats": {
+          "role": "Batsman",
+          "batting": [
+            {
+              "label": "Mat",
+              "value": "199"
+            },
+            {
+              "label": "No",
+              "value": "31"
+            },
+            {
+              "label": "Runs",
+              "value": "6076"
+            },
+            {
+              "label": "HS",
+              "value": "113"
+            },
+            {
+              "label": "Ave",
+              "value": "37.97"
+            },
+            {
+              "label": "BF",
+              "value": "4,659"
+            },
+            {
+              "label": "SR",
+              "value": "130.41"
+            },
+            {
+              "label": "100",
+              "value": "5"
+            },
+            {
+              "label": "50",
+              "value": "40"
+            },
+            {
+              "label": "4s",
+              "value": "524"
+            },
+            {
+              "label": "6s",
+              "value": "205"
+            },
+            {
+              "label": "CT",
+              "value": "80"
+            },
+            {
+              "label": "ST",
+              "value": "0"
+            }
+          ]
+        }
+      },
+      {
+        "image": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/284/233.png",
+        "name": "AB de Villiers",
+        "profile": "https://www.iplt20.com/teams/royal-challengers-bangalore/squad/233/ab-de-villiers",
+        "squad": "royal-challengers-bangalore",
+        "stats": {
+          "role": "Wicketkeeper batsman",
+          "batting": [
+            {
+              "label": "Mat",
+              "value": "176"
+            },
+            {
+              "label": "No",
+              "value": "38"
+            },
+            {
+              "label": "Runs",
+              "value": "5056"
+            },
+            {
+              "label": "HS",
+              "value": "133*"
+            },
+            {
+              "label": "Ave",
+              "value": "40.77"
+            },
+            {
+              "label": "BF",
+              "value": "3,318"
+            },
+            {
+              "label": "SR",
+              "value": "152.38"
+            },
+            {
+              "label": "100",
+              "value": "3"
+            },
+            {
+              "label": "50",
+              "value": "40"
+            },
+            {
+              "label": "4s",
+              "value": "406"
+            },
+            {
+              "label": "6s",
+              "value": "245"
+            },
+            {
+              "label": "CT",
+              "value": "111"
+            },
+            {
+              "label": "ST",
+              "value": "8"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
+      
